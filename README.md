@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+## Ebook - Contagem de Objetos em Vídeos com YOLOv11 🌌
 
-## 🚀 Introdução
+### 📒 Descrição
+Este e-book de 6 páginas explica brevemente as capacidades da visão computacional para automatizar a contagem de objetos (pássaros em nosso exemplo), simplificando o processo como uma primeira abordagem ao tema.
 
-> Woooow! Look at this 👀
+### 🤖 Tecnologias Utilizadas
+- **[Gamma](https://gamma.app/)**: IA Generativa para criação do e-book
+- **[Natural Readers](https://www.naturalreaders.com/)**: IA Generativa para criação de áudio complementar com Text-to-Speech (TTS)
+- **[GitHub Copilot](https://github.com/features/copilot)**: IA Generativa para aprimoramento do código e criação da documentação
+- **[Visual Studio Code](https://code.visualstudio.com/)**: Editor de código-fonte
+- **[Git](https://git-scm.com/)** e **[GitHub](https://github.com/)**: Para controle de versão, fork e push do repositório relacionado a este projeto
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### 🧐 Processo de Criação
+O desenvolvimento deste projeto foi estruturado em três etapas principais. Inicialmente, utilizamos o Gamma para elaborar um e-book didático e visualmente atraente, focando na explicação clara dos conceitos fundamentais da detecção de objetos com YOLOv11. Em seguida, implementamos o código de detecção e contagem usando Python, com suporte do GitHub Copilot para otimizar o desenvolvimento. Por fim, complementamos o material com narração em áudio gerada pelo Natural Readers, tornando o conteúdo mais acessível.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 🚀 Resultados
+O projeto resultou em um conjunto integrado de recursos educacionais:
+- E-book de 6 páginas com explicações detalhadas e exemplos práticos
+- Código-fonte documentado e otimizado para detecção de pássaros em vídeos
+- Narração em áudio profissional que acompanha o conteúdo do e-book
+- Breve exploração prática do tópico de visão computacional.
 
-### Objetivos
+[LINK PARA O E-BOOK AQUI](./assets/Contagem-de-Objetos-em-Videos-com-YOLOv11.pdf)
+[CÓDIGO DO PROJETO](./code)
+[LINK PARA O VIDEO RESULTANTE](./code/output_videos/object_counting_output.mp4)
+[LINK PARA O AUDIO COMPLEMENTAR](./assets/computer_vision_audio_pt_br.mp3)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+### 💭 Reflexão
+Este projeto demonstrou o potencial da combinação de diferentes tecnologias de IA para criar material educacional abrangente. A integração de visão computacional com ferramentas generativas permitiu desenvolver um recurso que não apenas explica conceitos técnicos, mas também os demonstra na prática. O uso do YOLOv11 provou ser uma escolha acertada para iniciantes, oferecendo um equilíbrio entre precisão e facilidade de implementação. As principais lições aprendidas incluem a importância da documentação clara e o valor de disponibilizar o conteúdo em múltiplos formatos para atender diferentes estilos de aprendizagem.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
