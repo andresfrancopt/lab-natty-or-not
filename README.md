@@ -21,8 +21,11 @@ O projeto resultou em um conjunto integrado de recursos educacionais:
 - Breve exploração prática do tópico de visão computacional.
 
 [LINK PARA O E-BOOK AQUI](./assets/Contagem-de-Objetos-em-Videos-com-YOLOv11.pdf)
+
 [CÓDIGO DO PROJETO](./code)
+
 [LINK PARA O VIDEO RESULTANTE](./code/output_videos/object_counting_output.mp4)
+
 [LINK PARA O AUDIO COMPLEMENTAR](./assets/computer_vision_audio_pt_br.mp3)
 
 
